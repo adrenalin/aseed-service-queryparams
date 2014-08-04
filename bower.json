@@ -1,0 +1,29 @@
+{
+  "name": "aseed-service-queryparams",
+  "version": "0.0.1",
+  "homepage": "https://github.com/adrenalin/aseed-service-queryparams",
+  "authors": [
+    "Arttu Manninen <arttu@kaktus.cc>"
+  ],
+  "description": "Query parameter parser",
+  "main": "queryparams.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "angularjs",
+    "aseed",
+    "query parameters"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "aseed": "adrenalin/aseed"
+  }
+}
