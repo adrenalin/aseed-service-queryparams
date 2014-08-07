@@ -1,12 +1,12 @@
 {
   "name": "aseed-service-queryparams",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/adrenalin/aseed-service-queryparams",
   "authors": [
     "Arttu Manninen <arttu@kaktus.cc>"
   ],
   "description": "Query parameter parser",
-  "main": "queryparams.js",
+  "main": "queryparams-service.js",
   "moduleType": [
     "amd"
   ],
